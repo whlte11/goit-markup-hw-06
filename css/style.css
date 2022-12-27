@@ -886,7 +886,7 @@
 
 .modal-form-check:checked + .modal-form-check-description::before {
   background-color: #404bbf;
-  background-image: url(/images/tick.svg);
+  background-image: url(./images/tick.svg);
   background-repeat: no-repeat;
   background-position: center;
   transition: background-color var(--transition-cubic-bezier);
